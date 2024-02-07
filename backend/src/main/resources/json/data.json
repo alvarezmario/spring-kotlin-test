@@ -1,0 +1,422 @@
+[
+  {
+    "type": "ModelX100",
+    "buildInfoVersion": "v1.2.3",
+    "otherBuildInfo": {
+      "manufacturer": "TechCorp",
+      "releaseDate": "2024-01-15"
+    },
+    "lots": [
+      {
+        "lotId": "LOT1001",
+        "lotTypes": [
+          {
+            "type": "Durability",
+            "results": [
+              {
+                "testId": "D101",
+                "value": 48,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D102",
+                "value": 38,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D103",
+                "value": 62,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D104",
+                "value": 58,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D105",
+                "value": 42,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D106",
+                "value": 55,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D107",
+                "value": 60,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D108",
+                "value": 40,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D109",
+                "value": 59,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D110",
+                "value": 41,
+                "lowRange": 40,
+                "highRange": 60
+              }
+            ]
+          },
+          {
+            "type": "Efficiency",
+            "results": [
+              {
+                "testId": "E101",
+                "value": 78,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E102",
+                "value": 82,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E103",
+                "value": 76,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E104",
+                "value": 61,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E105",
+                "value": 59,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E106",
+                "value": 64,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E107",
+                "value": 79,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E108",
+                "value": 65,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E109",
+                "value": 68,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E110",
+                "value": 75,
+                "lowRange": 60,
+                "highRange": 80
+              }
+            ]
+          },
+          {
+            "type": "Safety",
+            "results": [
+              {
+                "testId": "S101",
+                "value": 35,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S102",
+                "value": 50,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S103",
+                "value": 29,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S104",
+                "value": 33,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S105",
+                "value": 31,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S106",
+                "value": 48,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S107",
+                "value": 52,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S108",
+                "value": 45,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S109",
+                "value": 47,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S110",
+                "value": 49,
+                "lowRange": 30,
+                "highRange": 50
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ModelX101",
+    "buildInfoVersion": "v1.2.3",
+    "otherBuildInfo": {
+      "manufacturer": "TechCorp",
+      "releaseDate": "2024-01-15"
+    },
+    "lots": [
+      {
+        "lotId": "LOT1001",
+        "lotTypes": [
+          {
+            "type": "Durability",
+            "results": [
+              {
+                "testId": "D101",
+                "value": 48,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D102",
+                "value": 38,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D103",
+                "value": 62,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D104",
+                "value": 58,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D105",
+                "value": 42,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D106",
+                "value": 55,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D107",
+                "value": 60,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D108",
+                "value": 40,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D109",
+                "value": 59,
+                "lowRange": 40,
+                "highRange": 60
+              },
+              {
+                "testId": "D110",
+                "value": 41,
+                "lowRange": 40,
+                "highRange": 60
+              }
+            ]
+          },
+          {
+            "type": "Efficiency",
+            "results": [
+              {
+                "testId": "E101",
+                "value": 78,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E102",
+                "value": 82,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E103",
+                "value": 76,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E104",
+                "value": 61,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E105",
+                "value": 59,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E106",
+                "value": 64,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E107",
+                "value": 79,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E108",
+                "value": 65,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E109",
+                "value": 68,
+                "lowRange": 60,
+                "highRange": 80
+              },
+              {
+                "testId": "E110",
+                "value": 75,
+                "lowRange": 60,
+                "highRange": 80
+              }
+            ]
+          },
+          {
+            "type": "Safety",
+            "results": [
+              {
+                "testId": "S101",
+                "value": 35,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S102",
+                "value": 50,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S103",
+                "value": 29,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S104",
+                "value": 33,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S105",
+                "value": 31,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S106",
+                "value": 48,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S107",
+                "value": 52,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S108",
+                "value": 45,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S109",
+                "value": 47,
+                "lowRange": 30,
+                "highRange": 50
+              },
+              {
+                "testId": "S110",
+                "value": 49,
+                "lowRange": 30,
+                "highRange": 50
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
